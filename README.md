@@ -10,18 +10,19 @@ Here I try to show my learning curve as aa software developer with [Founders and
 <details>
   <summary>Markup</summary>
   
-  - Option 1
-  - Option 2
-  - Option 3
+  - Semantic HTML to aid accessibility and SEO.
+  - Site is accessible for screen readers
+  - Sufficient colour contrast.
+  - Accessibility tool.
+  - Media queries. 
+  - Mobile-first.
+  - CSS BEM methodology.
+  - Flexbox.
+  - Grid.
+  - Coherent Git commits.
+  - HTML forms.
 </details>
 
 
-
-
-
-
-
-
-1. [Markup](/learnings/markup.md)
 1. [HTTP](/learnings/http.md)
 1. [Testing](/learnings/testing.md)
