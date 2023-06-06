@@ -25,6 +25,18 @@ Here I try to show my learning curve as aa software developer with [Founders and
 <details>
   <summary>HTTP</summary>
   
+  - Asynchronous coding.
+  - Callbacks.
+  - Promises.
+  - Fetch.
+  - GET and POST.
+  - .map()
+  - .filter()
+  - DOM selectors.
+  - .toggle()
+  - Consistent layout.
+  - Spacing guidelines.
+  - Debug with web browser and console.log()
 </details>
 
 1. [HTTP](/learnings/http.md)
