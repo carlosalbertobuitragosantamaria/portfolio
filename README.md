@@ -39,5 +39,5 @@ Here I try to show my learning curve as aa software developer with [Founders and
   - Debug with web browser and console.log()
 </details>
 
-1. [HTTP](/learnings/http.md)
+
 1. [Testing](/learnings/testing.md)
