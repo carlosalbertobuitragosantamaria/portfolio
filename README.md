@@ -8,7 +8,7 @@ Here I try to show my learning curve as aa software developer with [Founders and
 ## Learnings
 
 <details>
-  <summary>Markup</summary>
+  <summary>Markup ✍️</summary>
   
   - Semantic HTML to aid accessibility and SEO.
   - Site is accessible for screen readers
@@ -23,7 +23,7 @@ Here I try to show my learning curve as aa software developer with [Founders and
   - HTML forms.
 </details>
 <details>
-  <summary>HTTP</summary>
+  <summary>HTTP 🌍</summary>
   
   - Asynchronous coding.
   - Callbacks.
