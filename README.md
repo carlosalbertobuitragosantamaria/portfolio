@@ -1,6 +1,6 @@
 ## Purpose
 
-Here I try to show my learning curve as aa software developer with [Founders and Coders](https://github.com/foundersandcoders) and beyond. 
+Here I try to show my learning curve as a software developer with [Founders and Coders](https://github.com/foundersandcoders) and beyond. 
 
 
 
@@ -8,7 +8,7 @@ Here I try to show my learning curve as aa software developer with [Founders and
 ## Learnings
 
 <details>
-  <summary>Markup ✍️</summary>
+  <summary>Markup ✍</summary>
   
   - Semantic HTML to aid accessibility and SEO.
   - Site is accessible for screen readers
@@ -40,4 +40,8 @@ Here I try to show my learning curve as aa software developer with [Founders and
 </details>
 
 
-1. [Testing](/learnings/testing.md)
+<details>
+  <summary>Testing 🚀</summary>
+
+  - 
+</details>
