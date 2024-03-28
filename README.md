@@ -1,6 +1,6 @@
 ## Purpose
 
-Here I try to show my learning curve as a software developer with [Founders and Coders](https://github.com/foundersandcoders) and beyond. 
+Here I try to show my learning curve as a software developer with [Founders and Coders](https://github.com/foundersandcoders). 
 
 
 
@@ -43,5 +43,13 @@ Here I try to show my learning curve as a software developer with [Founders and 
 <details>
   <summary>Testing 🚀</summary>
 
-  - 
+  - Red, green, refactor.
+  - Write running tests with Jest.
+  - Group related tests with `describe()`
+  - Verify equality with `assertEquals()`
+  - Create assertions with `expect()`
+  - Define individual cases with `it()`
+  - Verify errors with `toThrow()` and `not.toThrow()`
+  - Strict equality (===) with `toBe()`
+  - Deep equality of objects and arrays with `toEqual()`
 </details>
